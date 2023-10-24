@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿// Juliea Ritola
+// IT113
+// NOTES: 
+// BEHAVIORS NOT IMPLIMENTED AND WHY: Changing the ASCII value to the word form (ToString() override), currently outputs the number value in string form.
+
+using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Text;
