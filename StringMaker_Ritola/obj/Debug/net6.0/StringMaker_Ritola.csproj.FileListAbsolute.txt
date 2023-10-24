@@ -1,0 +1,15 @@
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\bin\Debug\net6.0\StringMaker_Ritola.exe
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\bin\Debug\net6.0\StringMaker_Ritola.deps.json
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\bin\Debug\net6.0\StringMaker_Ritola.runtimeconfig.json
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\bin\Debug\net6.0\StringMaker_Ritola.dll
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\bin\Debug\net6.0\StringMaker_Ritola.pdb
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.csproj.AssemblyReference.cache
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.AssemblyInfoInputs.cache
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.AssemblyInfo.cs
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.csproj.CoreCompileInputs.cache
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.dll
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\refint\StringMaker_Ritola.dll
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.pdb
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\StringMaker_Ritola.genruntimeconfig.cache
+D:\School\Programming III\StringMaker_Ritola_Solution\StringMaker_Ritola\obj\Debug\net6.0\ref\StringMaker_Ritola.dll
